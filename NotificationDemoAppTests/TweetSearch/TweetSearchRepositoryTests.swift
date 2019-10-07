@@ -84,9 +84,6 @@ final class TweetSearchRepositoryTests: XCTestCase {
             let netWork = MockNetwork()
             
             let repository = TweetSearchRepository(network: netWork)
-            let repositoryDetail = TweetDetailRepository()
-                
-                let tweet = TweetItem(message: "Bonsoir", id: "124", date: "", liked: "", retweet: "", userName: "", userID: "", profilePicture: "")
                                   
 //                 repositoryDetail.saveTweet(tweet: tweet)
                 
