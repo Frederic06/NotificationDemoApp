@@ -30,6 +30,8 @@ extension Screens {
     }
 }
 
+// MARK: - Detail
+
 extension Screens {
     func createTweetDetailViewController(tweet: TweetItem, delegate: TweetDetailViewModelDelegate) -> UIViewController {
         
@@ -40,6 +42,8 @@ extension Screens {
         return viewController
     }
 }
+
+// MARK: - Alert
 
 extension Screens {
     func createAlert(for type: AlertType) -> UIAlertController? {

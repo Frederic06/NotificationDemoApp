@@ -29,7 +29,6 @@ Try to make another request 👏
 """)
         case .noCoordinates:
             self = Alert(title: "Alert", message: "Please give us your coordinates in your settings.. ☝️")
-            
         case .requestLocation:
             self = Alert(title: "Alert", message: "Would you like to search tweets around you (50km)❓")
         case .noHashtag:

@@ -21,6 +21,8 @@ final class FavoriteCoordinator{
         self.screens = screens
     }
     
+    // MARK: - Public methods
+    
     func start() {
         showSearch()
     }
@@ -35,6 +37,8 @@ final class FavoriteCoordinator{
         presenter.pushViewController(viewController, animated: true)
     }
     
+    // MARK: - Private methods
+    
     private func showAlert(for type: AlertType) {
         guard let alert = screens.createAlert(for: type) else {return}
             if let popoverController = alert.popoverPresentationController {
@@ -45,6 +49,8 @@ final class FavoriteCoordinator{
         presenter.visibleViewController?.present(alert, animated: true, completion: nil)
     }
 }
+
+    // MARK: - Extensions
 
 extension FavoriteCoordinator: TweetSearcViewModelDelegate {
     func locationRequest() {}
@@ -60,11 +66,6 @@ extension FavoriteCoordinator: TweetSearcViewModelDelegate {
 
 extension FavoriteCoordinator: TweetDetailViewModelDelegate {
     func displayAlarm(type: AlertType) {
-    }
-    
-    func didPressFavorite(tweet: TweetItem) {
-        print("Did Press Favorite")
+        showAlert(for: type)
     }
 }
-
-

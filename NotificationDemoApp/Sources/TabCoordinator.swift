@@ -23,7 +23,6 @@ protocol TabCoordinatorType {
 final class CustomNavigationController: UINavigationController {
     override func viewDidLoad() {
         super.viewDidLoad()
-        self.navigationBar.backgroundColor = #colorLiteral(red: 0.6665837169, green: 0.4038853049, blue: 0.1849137843, alpha: 1)
     }
 }
 
@@ -60,11 +59,6 @@ final class TabCoordinator: NSObject, TabCoordinatorType {
         buildItems(with: screens)
         
         configureTabBar()
-        
-        //UITabBar has "viewControllers" propertie, which is an array of UIViewControllers of our tabBar, we set it to our array "items" which contains three VC that we created(Meteo/Translator/Converter)
-
-
-        
         UITabBarItem.appearance().setTitleTextAttributes([ NSAttributedString.Key.font: UIFont(name: "Chalkduster", size: 15.0)! ], for: .normal)
         tabBarController.viewControllers = self.items
         //The first view is Translator
@@ -74,12 +68,14 @@ final class TabCoordinator: NSObject, TabCoordinatorType {
     }
     
     // MARK: - Start
+    
     func start() {
         presenter.rootViewController = tabBarController
         showResearch()
     }
     
     // MARK: - Private
+    
     private func showResearch() {
         researchCoordinator = SearchCoordinator(presenter: self[.research] as! UINavigationController, screens: screens)
         researchCoordinator?.start()
@@ -91,12 +87,8 @@ final class TabCoordinator: NSObject, TabCoordinatorType {
     }
     
     private func buildItems(with screens: Screens) {
-        
         items[0].tabBarItem = UITabBarItem(title: "Search", image: nil, tag: 0)
-
-        
         items[1].tabBarItem = UITabBarItem(title: "Favorites", image: nil, tag: 1)
-
     }
     
     private func configureTabBar() {
@@ -128,6 +120,7 @@ extension TabCoordinator: UITabBarControllerDelegate {
         }
     }
 }
+
 extension TabCoordinator {
     // subscript rewrites the behavior of index of our "item" array, we pass an element of the ViewControllerItem (an enumeration) and return a UIViewController
     
