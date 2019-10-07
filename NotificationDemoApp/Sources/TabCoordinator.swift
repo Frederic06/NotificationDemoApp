@@ -13,9 +13,6 @@ enum ViewControllerItem: Int {
     case favorites = 1
 }
 
-// tabBar allow to transite between X Views (we have only 3). Because of navigation, we have to create a TabCoordinator
-// Its owns instances of Views, we have 2, we made an array with 2 Navigation Controllers
-
 protocol TabCoordinatorType {
     var items: [UINavigationController] { get set }
 }
@@ -27,7 +24,6 @@ final class CustomNavigationController: UINavigationController {
 }
 
 final class TabCoordinator: NSObject, TabCoordinatorType {
-    // tabCoordinator instantiate and parameters our TabBar
     
     // MARK: - Properties
     private var presenter: UIWindow
@@ -46,12 +42,12 @@ final class TabCoordinator: NSObject, TabCoordinatorType {
     ]
     
     // MARK: - Initializer
-    // In init we construct object, parameter of type Windows comes from AppCoordinator(Screen of user, main window of app)
+
     init(presenter: UIWindow) {
         self.presenter = presenter
-        // Screens is responsible for creating instantes of Views declared in our StoryBoard
+
         screens = Screens()
-        // We create an empty TabBar : "tabBarController" is an instante of UITabBarController, nibName is empty because we don't have XIB file (containing small objects (buttons, labels etc.)
+
         tabBarController = UITabBarController(nibName: nil, bundle: nil)
         
         super.init()
@@ -101,7 +97,6 @@ final class TabCoordinator: NSObject, TabCoordinatorType {
     }
 }
 
-// TabCoordinator is bind to UITabBarControllerDelegate, methods are called each time the delegate recieves an event from the user (User clicked on one tabBar element (Meteo/Translator/Converter)
 extension TabCoordinator: UITabBarControllerDelegate {
     func tabBarController(_ tabBarController: UITabBarController, didSelect viewController: UIViewController) {
         

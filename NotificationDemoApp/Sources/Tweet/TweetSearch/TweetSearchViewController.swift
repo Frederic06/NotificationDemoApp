@@ -18,7 +18,7 @@ class TweetSearchViewController: UIViewController {
     @IBOutlet weak var searchIndicator: UIActivityIndicatorView!
     
     @IBOutlet weak var quoteImage: UIImageView!
-    
+
     // MARK: - Properties
     
     var viewModel: TweetSearchViewModel!
@@ -35,26 +35,23 @@ class TweetSearchViewController: UIViewController {
     
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
-        
+        configureUI()
         navigationItem.searchController = searchController
         searchController.searchBar.delegate = self
         definesPresentationContext = true
         self.twitterTableView.isHidden = true
-        
     }
     
     override func viewDidAppear(_ animated: Bool) {
         super.viewDidAppear(animated)
         bind(to: viewModel)
         viewModel.viewDidAppear()
-        configureUI()
-        
+
         updateLocation()
-        
-        bind(to: twitterSearchDataSource)
         
         twitterTableView.dataSource = twitterSearchDataSource
         twitterTableView.delegate = twitterSearchDataSource
+        bind(to: twitterSearchDataSource)
     }
     
     // MARK: - Private methods
@@ -102,15 +99,15 @@ class TweetSearchViewController: UIViewController {
     }
     
     func configureUI() {
-        print("CONFIGURE UI")
+        self.twitterTableView.isHidden = true
         navigationController?.navigationItem.largeTitleDisplayMode = .automatic
         navigationController?.navigationBar.prefersLargeTitles = true
         navigationItem.hidesSearchBarWhenScrolling = false
         navigationController?.navigationBar.backgroundColor = #colorLiteral(red: 0.1076729968, green: 0.6331808567, blue: 0.9505664706, alpha: 1)
         navigationController?.navigationBar.isTranslucent = false
         navigationItem.title = "👉Tweet Search"
-        
         self.quoteImage.image = quote
+        self.quoteImage.isHidden = false
     }
 }
 

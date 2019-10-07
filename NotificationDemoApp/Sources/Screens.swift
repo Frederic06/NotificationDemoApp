@@ -9,7 +9,6 @@
 import UIKit
 
 final class Screens {
-    
     let storyboard = UIStoryboard(name: "Main", bundle: Bundle(for: Screens.self))
 }
 
