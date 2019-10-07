@@ -1,0 +1,3218 @@
+{
+    "statuses": [
+        {
+            "created_at": "Sun Oct 06 09:01:00 +0000 2019",
+            "id": 1180769918700150784,
+            "id_str": "1180769918700150784",
+            "text": "Il est bien ce mec, Hingano là. On recherche pas des mecs comme ça au Stade Français ? #FRATGA",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "FRATGA",
+                        "indices": [
+                            87,
+                            94
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "fr",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1469272027,
+                "id_str": "1469272027",
+                "name": "Cécile",
+                "screen_name": "cecilepepin",
+                "location": "Paris, France",
+                "description": "#RH #Formation #ProudtobeOrange @Orange_Csltg Amatrice de rugby, supportrice acharnée du Stade Français Paris. #PinkArmy",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 848,
+                "friends_count": 213,
+                "listed_count": 75,
+                "created_at": "Thu May 30 08:30:42 +0000 2013",
+                "favourites_count": 17524,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 24720,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": true,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1176974220150149120/SBdf6z6K_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1176974220150149120/SBdf6z6K_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1469272027/1558815665",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "fr"
+        },
+        {
+            "created_at": "Sun Oct 06 08:59:52 +0000 2019",
+            "id": 1180769633391054849,
+            "id_str": "1180769633391054849",
+            "text": "Le karma du Stade Français en ce moment.....\n\nLa France qui se prend un essai d'...Hingano 😭😭😭😭 #FRAvTGA",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "FRAvTGA",
+                        "indices": [
+                            96,
+                            104
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "fr",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1078304241117216768,
+                "id_str": "1078304241117216768",
+                "name": "Georges Lemovic",
+                "screen_name": "Lemo_SFP",
+                "location": "Ile-de-France, France",
+                "description": "Abonné Stade Français 2019-20 ⚡🏉⚡ Cyclisme. Séparation du MEDEF et de l'État. Souverainiste.\n#DebanImamette",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 312,
+                "friends_count": 203,
+                "listed_count": 4,
+                "created_at": "Thu Dec 27 14:58:59 +0000 2018",
+                "favourites_count": 43671,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 34095,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1078307347821461504/x3--zjHK_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1078307347821461504/x3--zjHK_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1078304241117216768/1549622406",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": true,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "fr"
+        },
+        {
+            "created_at": "Sun Oct 06 08:58:31 +0000 2019",
+            "id": 1180769290129170432,
+            "id_str": "1180769290129170432",
+            "text": "RT @Blog_RCT: Jonathan Danty fataliste après la nouvelle claque reçue par le Stade-Français Paris https://t.co/ERJzSLXq7S https://t.co/xo2I…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "Blog_RCT",
+                        "name": "blog-rct.com",
+                        "id": 113102752,
+                        "id_str": "113102752",
+                        "indices": [
+                            3,
+                            12
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/ERJzSLXq7S",
+                        "expanded_url": "http://dlvr.it/RFZwJD",
+                        "display_url": "dlvr.it/RFZwJD",
+                        "indices": [
+                            98,
+                            121
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "fr",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2161343388,
+                "id_str": "2161343388",
+                "name": "XV de la Rade",
+                "screen_name": "RadeXV",
+                "location": "Toulon, France",
+                "description": "Le RCT est et restera dans mon cœur à vie.",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 884,
+                "friends_count": 78,
+                "listed_count": 16,
+                "created_at": "Mon Oct 28 17:59:44 +0000 2013",
+                "favourites_count": 21193,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 45097,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "DD2E44",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/596655118600282113/kewXQPy6_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/596655118600282113/kewXQPy6_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2161343388/1538305959",
+                "profile_link_color": "3B94D9",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Sat Oct 05 20:12:06 +0000 2019",
+                "id": 1180576415210586112,
+                "id_str": "1180576415210586112",
+                "text": "Jonathan Danty fataliste après la nouvelle claque reçue par le Stade-Français Paris https://t.co/ERJzSLXq7S https://t.co/xo2InmWSYv",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/ERJzSLXq7S",
+                            "expanded_url": "http://dlvr.it/RFZwJD",
+                            "display_url": "dlvr.it/RFZwJD",
+                            "indices": [
+                                84,
+                                107
+                            ]
+                        }
+                    ],
+                    "media": [
+                        {
+                            "id": 1180576413830664193,
+                            "id_str": "1180576413830664193",
+                            "indices": [
+                                108,
+                                131
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EGI__lCU0AEc7W-.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EGI__lCU0AEc7W-.jpg",
+                            "url": "https://t.co/xo2InmWSYv",
+                            "display_url": "pic.twitter.com/xo2InmWSYv",
+                            "expanded_url": "https://twitter.com/Blog_RCT/status/1180576415210586112/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "medium": {
+                                    "w": 600,
+                                    "h": 315,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 600,
+                                    "h": 315,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 600,
+                                    "h": 315,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1180576413830664193,
+                            "id_str": "1180576413830664193",
+                            "indices": [
+                                108,
+                                131
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EGI__lCU0AEc7W-.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EGI__lCU0AEc7W-.jpg",
+                            "url": "https://t.co/xo2InmWSYv",
+                            "display_url": "pic.twitter.com/xo2InmWSYv",
+                            "expanded_url": "https://twitter.com/Blog_RCT/status/1180576415210586112/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "medium": {
+                                    "w": 600,
+                                    "h": 315,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 600,
+                                    "h": 315,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 600,
+                                    "h": 315,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "fr",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 113102752,
+                    "id_str": "113102752",
+                    "name": "blog-rct.com",
+                    "screen_name": "Blog_RCT",
+                    "location": "TOULON",
+                    "description": "Le Blog non officiel sur le RCT (http://t.co/eTClgp5Y)  tweet tous ses articles afin de partager l'actualité du RCT au quotidien sur la grande famille Twitter.",
+                    "url": "http://t.co/tteolm5W4K",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "http://t.co/tteolm5W4K",
+                                    "expanded_url": "http://www.blog-rct.com",
+                                    "display_url": "blog-rct.com",
+                                    "indices": [
+                                        0,
+                                        22
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": [
+                                {
+                                    "url": "http://t.co/eTClgp5Y",
+                                    "expanded_url": "http://www.blog-rct.com",
+                                    "display_url": "blog-rct.com",
+                                    "indices": [
+                                        33,
+                                        53
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 8841,
+                    "friends_count": 558,
+                    "listed_count": 109,
+                    "created_at": "Wed Feb 10 18:22:09 +0000 2010",
+                    "favourites_count": 1690,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 78349,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "1A1B1F",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1611966233/tweet_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1611966233/tweet_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/113102752/1355501575",
+                    "profile_link_color": "F22727",
+                    "profile_sidebar_border_color": "181A1E",
+                    "profile_sidebar_fill_color": "252429",
+                    "profile_text_color": "666666",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": true,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 0,
+                "favorite_count": 0,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "fr"
+            },
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "fr"
+        },
+        {
+            "created_at": "Sun Oct 06 08:58:24 +0000 2019",
+            "id": 1180769263696658433,
+            "id_str": "1180769263696658433",
+            "text": "RT @Blog_RCT: Thomas Lombard va rejoindre le Stade-Français Paris ! https://t.co/E6fE6rRf0w https://t.co/YSNp6ADkKX",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "Blog_RCT",
+                        "name": "blog-rct.com",
+                        "id": 113102752,
+                        "id_str": "113102752",
+                        "indices": [
+                            3,
+                            12
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/E6fE6rRf0w",
+                        "expanded_url": "http://dlvr.it/RFbv65",
+                        "display_url": "dlvr.it/RFbv65",
+                        "indices": [
+                            68,
+                            91
+                        ]
+                    }
+                ],
+                "media": [
+                    {
+                        "id": 1180730919616831488,
+                        "id_str": "1180730919616831488",
+                        "indices": [
+                            92,
+                            115
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EGLMg_8U4AAZ2ls.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EGLMg_8U4AAZ2ls.jpg",
+                        "url": "https://t.co/YSNp6ADkKX",
+                        "display_url": "pic.twitter.com/YSNp6ADkKX",
+                        "expanded_url": "https://twitter.com/Blog_RCT/status/1180730921265221633/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 553,
+                                "h": 369,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 553,
+                                "h": 369,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 553,
+                                "h": 369,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 1180730921265221633,
+                        "source_status_id_str": "1180730921265221633",
+                        "source_user_id": 113102752,
+                        "source_user_id_str": "113102752"
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1180730919616831488,
+                        "id_str": "1180730919616831488",
+                        "indices": [
+                            92,
+                            115
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EGLMg_8U4AAZ2ls.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EGLMg_8U4AAZ2ls.jpg",
+                        "url": "https://t.co/YSNp6ADkKX",
+                        "display_url": "pic.twitter.com/YSNp6ADkKX",
+                        "expanded_url": "https://twitter.com/Blog_RCT/status/1180730921265221633/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 553,
+                                "h": 369,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 553,
+                                "h": 369,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 553,
+                                "h": 369,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 1180730921265221633,
+                        "source_status_id_str": "1180730921265221633",
+                        "source_user_id": 113102752,
+                        "source_user_id_str": "113102752"
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "fr",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2161343388,
+                "id_str": "2161343388",
+                "name": "XV de la Rade",
+                "screen_name": "RadeXV",
+                "location": "Toulon, France",
+                "description": "Le RCT est et restera dans mon cœur à vie.",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 884,
+                "friends_count": 78,
+                "listed_count": 16,
+                "created_at": "Mon Oct 28 17:59:44 +0000 2013",
+                "favourites_count": 21193,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 45097,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "DD2E44",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/596655118600282113/kewXQPy6_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/596655118600282113/kewXQPy6_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2161343388/1538305959",
+                "profile_link_color": "3B94D9",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Sun Oct 06 06:26:03 +0000 2019",
+                "id": 1180730921265221633,
+                "id_str": "1180730921265221633",
+                "text": "Thomas Lombard va rejoindre le Stade-Français Paris ! https://t.co/E6fE6rRf0w https://t.co/YSNp6ADkKX",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/E6fE6rRf0w",
+                            "expanded_url": "http://dlvr.it/RFbv65",
+                            "display_url": "dlvr.it/RFbv65",
+                            "indices": [
+                                54,
+                                77
+                            ]
+                        }
+                    ],
+                    "media": [
+                        {
+                            "id": 1180730919616831488,
+                            "id_str": "1180730919616831488",
+                            "indices": [
+                                78,
+                                101
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EGLMg_8U4AAZ2ls.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EGLMg_8U4AAZ2ls.jpg",
+                            "url": "https://t.co/YSNp6ADkKX",
+                            "display_url": "pic.twitter.com/YSNp6ADkKX",
+                            "expanded_url": "https://twitter.com/Blog_RCT/status/1180730921265221633/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "medium": {
+                                    "w": 553,
+                                    "h": 369,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 553,
+                                    "h": 369,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 553,
+                                    "h": 369,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1180730919616831488,
+                            "id_str": "1180730919616831488",
+                            "indices": [
+                                78,
+                                101
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EGLMg_8U4AAZ2ls.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EGLMg_8U4AAZ2ls.jpg",
+                            "url": "https://t.co/YSNp6ADkKX",
+                            "display_url": "pic.twitter.com/YSNp6ADkKX",
+                            "expanded_url": "https://twitter.com/Blog_RCT/status/1180730921265221633/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "medium": {
+                                    "w": 553,
+                                    "h": 369,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 553,
+                                    "h": 369,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 553,
+                                    "h": 369,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "fr",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 113102752,
+                    "id_str": "113102752",
+                    "name": "blog-rct.com",
+                    "screen_name": "Blog_RCT",
+                    "location": "TOULON",
+                    "description": "Le Blog non officiel sur le RCT (http://t.co/eTClgp5Y)  tweet tous ses articles afin de partager l'actualité du RCT au quotidien sur la grande famille Twitter.",
+                    "url": "http://t.co/tteolm5W4K",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "http://t.co/tteolm5W4K",
+                                    "expanded_url": "http://www.blog-rct.com",
+                                    "display_url": "blog-rct.com",
+                                    "indices": [
+                                        0,
+                                        22
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": [
+                                {
+                                    "url": "http://t.co/eTClgp5Y",
+                                    "expanded_url": "http://www.blog-rct.com",
+                                    "display_url": "blog-rct.com",
+                                    "indices": [
+                                        33,
+                                        53
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 8841,
+                    "friends_count": 558,
+                    "listed_count": 109,
+                    "created_at": "Wed Feb 10 18:22:09 +0000 2010",
+                    "favourites_count": 1690,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 78349,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "1A1B1F",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1611966233/tweet_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1611966233/tweet_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/113102752/1355501575",
+                    "profile_link_color": "F22727",
+                    "profile_sidebar_border_color": "181A1E",
+                    "profile_sidebar_fill_color": "252429",
+                    "profile_text_color": "666666",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": true,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 1,
+                "favorite_count": 0,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "fr"
+            },
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "fr"
+        },
+        {
+            "created_at": "Sun Oct 06 08:58:15 +0000 2019",
+            "id": 1180769224765128704,
+            "id_str": "1180769224765128704",
+            "text": "RT @Blog_RCT: Jonathan Danty avoue n’avoir jamais connu une telle situation au Stade-Français Paris https://t.co/1LF2UsmyPi https://t.co/Qv…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "Blog_RCT",
+                        "name": "blog-rct.com",
+                        "id": 113102752,
+                        "id_str": "113102752",
+                        "indices": [
+                            3,
+                            12
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/1LF2UsmyPi",
+                        "expanded_url": "http://dlvr.it/RFbwT1",
+                        "display_url": "dlvr.it/RFbwT1",
+                        "indices": [
+                            100,
+                            123
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "fr",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2161343388,
+                "id_str": "2161343388",
+                "name": "XV de la Rade",
+                "screen_name": "RadeXV",
+                "location": "Toulon, France",
+                "description": "Le RCT est et restera dans mon cœur à vie.",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 884,
+                "friends_count": 78,
+                "listed_count": 16,
+                "created_at": "Mon Oct 28 17:59:44 +0000 2013",
+                "favourites_count": 21193,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 45097,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "DD2E44",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/596655118600282113/kewXQPy6_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/596655118600282113/kewXQPy6_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2161343388/1538305959",
+                "profile_link_color": "3B94D9",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Sun Oct 06 06:33:03 +0000 2019",
+                "id": 1180732683074199553,
+                "id_str": "1180732683074199553",
+                "text": "Jonathan Danty avoue n’avoir jamais connu une telle situation au Stade-Français Paris https://t.co/1LF2UsmyPi https://t.co/Qv75aX8lCV",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/1LF2UsmyPi",
+                            "expanded_url": "http://dlvr.it/RFbwT1",
+                            "display_url": "dlvr.it/RFbwT1",
+                            "indices": [
+                                86,
+                                109
+                            ]
+                        }
+                    ],
+                    "media": [
+                        {
+                            "id": 1180732681434222592,
+                            "id_str": "1180732681434222592",
+                            "indices": [
+                                110,
+                                133
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EGLOHjOU0AAlhcc.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EGLOHjOU0AAlhcc.jpg",
+                            "url": "https://t.co/Qv75aX8lCV",
+                            "display_url": "pic.twitter.com/Qv75aX8lCV",
+                            "expanded_url": "https://twitter.com/Blog_RCT/status/1180732683074199553/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "medium": {
+                                    "w": 600,
+                                    "h": 315,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 600,
+                                    "h": 315,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 600,
+                                    "h": 315,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 1180732681434222592,
+                            "id_str": "1180732681434222592",
+                            "indices": [
+                                110,
+                                133
+                            ],
+                            "media_url": "http://pbs.twimg.com/media/EGLOHjOU0AAlhcc.jpg",
+                            "media_url_https": "https://pbs.twimg.com/media/EGLOHjOU0AAlhcc.jpg",
+                            "url": "https://t.co/Qv75aX8lCV",
+                            "display_url": "pic.twitter.com/Qv75aX8lCV",
+                            "expanded_url": "https://twitter.com/Blog_RCT/status/1180732683074199553/photo/1",
+                            "type": "photo",
+                            "sizes": {
+                                "medium": {
+                                    "w": 600,
+                                    "h": 315,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 600,
+                                    "h": 315,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 600,
+                                    "h": 315,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "fr",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 113102752,
+                    "id_str": "113102752",
+                    "name": "blog-rct.com",
+                    "screen_name": "Blog_RCT",
+                    "location": "TOULON",
+                    "description": "Le Blog non officiel sur le RCT (http://t.co/eTClgp5Y)  tweet tous ses articles afin de partager l'actualité du RCT au quotidien sur la grande famille Twitter.",
+                    "url": "http://t.co/tteolm5W4K",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "http://t.co/tteolm5W4K",
+                                    "expanded_url": "http://www.blog-rct.com",
+                                    "display_url": "blog-rct.com",
+                                    "indices": [
+                                        0,
+                                        22
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": [
+                                {
+                                    "url": "http://t.co/eTClgp5Y",
+                                    "expanded_url": "http://www.blog-rct.com",
+                                    "display_url": "blog-rct.com",
+                                    "indices": [
+                                        33,
+                                        53
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 8841,
+                    "friends_count": 558,
+                    "listed_count": 109,
+                    "created_at": "Wed Feb 10 18:22:09 +0000 2010",
+                    "favourites_count": 1690,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 78349,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "1A1B1F",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1611966233/tweet_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1611966233/tweet_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/113102752/1355501575",
+                    "profile_link_color": "F22727",
+                    "profile_sidebar_border_color": "181A1E",
+                    "profile_sidebar_fill_color": "252429",
+                    "profile_text_color": "666666",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": true,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 1,
+                "favorite_count": 0,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "fr"
+            },
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "fr"
+        },
+        {
+            "created_at": "Sun Oct 06 08:57:31 +0000 2019",
+            "id": 1180769039574065152,
+            "id_str": "1180769039574065152",
+            "text": "RT @FranceRugby: Le stade de Kumamoto se rempli et on est beaucoup de supporters Français ! Ça fait plaisir ! Merci à tous !!\n\nA votre avis…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "FranceRugby",
+                        "name": "France Rugby",
+                        "id": 2150576953,
+                        "id_str": "2150576953",
+                        "indices": [
+                            3,
+                            15
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "fr",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 3825675437,
+                "id_str": "3825675437",
+                "name": "ZaZou🌸",
+                "screen_name": "izazazou66",
+                "location": "Pyrénées-Orientales, Languedoc",
+                "description": "Usap Boutiques 🏉2009🏆 🙌 Actuellement Mairie🎽Pays Catalan❤💛",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 303,
+                "friends_count": 477,
+                "listed_count": 11,
+                "created_at": "Wed Sep 30 16:34:43 +0000 2015",
+                "favourites_count": 16878,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 9305,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1168925448849563650/O4mHtgcG_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1168925448849563650/O4mHtgcG_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/3825675437/1503741702",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Sun Oct 06 07:27:12 +0000 2019",
+                "id": 1180746310200119297,
+                "id_str": "1180746310200119297",
+                "text": "Le stade de Kumamoto se rempli et on est beaucoup de supporters Français ! Ça fait plaisir ! Merci à tous !!\n\nA vot… https://t.co/eqjoWWKzsT",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/eqjoWWKzsT",
+                            "expanded_url": "https://twitter.com/i/web/status/1180746310200119297",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "fr",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 2150576953,
+                    "id_str": "2150576953",
+                    "name": "France Rugby",
+                    "screen_name": "FranceRugby",
+                    "location": "Marcoussis, France",
+                    "description": "🏉🇫🇷 Fédération Française de Rugby | #RugbyAmateur | Équipes de France, #XVdeFrance, #FranceU20 #France7 | Insta/👻 : ffrugby | #NeFaisonsXV #RWC2019",
+                    "url": "https://t.co/Gk9vDZphZo",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/Gk9vDZphZo",
+                                    "expanded_url": "http://ffr.fr",
+                                    "display_url": "ffr.fr",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 684579,
+                    "friends_count": 635,
+                    "listed_count": 1275,
+                    "created_at": "Wed Oct 23 08:50:59 +0000 2013",
+                    "favourites_count": 10553,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": true,
+                    "statuses_count": 42620,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "131516",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1144612998574739457/S-4VR9Ug_normal.png",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1144612998574739457/S-4VR9Ug_normal.png",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2150576953/1568361060",
+                    "profile_link_color": "204385",
+                    "profile_sidebar_border_color": "FFFFFF",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 19,
+                "favorite_count": 112,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "fr"
+            },
+            "is_quote_status": false,
+            "retweet_count": 19,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "fr"
+        },
+        {
+            "created_at": "Sun Oct 06 08:48:15 +0000 2019",
+            "id": 1180766706312056832,
+            "id_str": "1180766706312056832",
+            "text": "RT @RugbyramaFR: 🚨🚨🚨\nhttps://t.co/3QxCnHYsKs",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "RugbyramaFR",
+                        "name": "RUGBYRAMA",
+                        "id": 560618971,
+                        "id_str": "560618971",
+                        "indices": [
+                            3,
+                            15
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/3QxCnHYsKs",
+                        "expanded_url": "https://www.rugbyrama.fr/rugby/top-14/2018-2019/top-14-stade-francais-lombard-va-etre-nomme-directeur-general_sto7488068/story.shtml",
+                        "display_url": "rugbyrama.fr/rugby/top-14/2…",
+                        "indices": [
+                            21,
+                            44
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "und",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 3202451981,
+                "id_str": "3202451981",
+                "name": "Maxime gilles",
+                "screen_name": "maxgil7713",
+                "location": "Meaux, Ile-de-France",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 46,
+                "friends_count": 391,
+                "listed_count": 4,
+                "created_at": "Fri Apr 24 22:53:12 +0000 2015",
+                "favourites_count": 2468,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 2925,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/688461464391303169/BgsxRibx_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/688461464391303169/BgsxRibx_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/3202451981/1431135705",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Sun Oct 06 05:29:09 +0000 2019",
+                "id": 1180716601613672453,
+                "id_str": "1180716601613672453",
+                "text": "🚨🚨🚨\nhttps://t.co/3QxCnHYsKs",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/3QxCnHYsKs",
+                            "expanded_url": "https://www.rugbyrama.fr/rugby/top-14/2018-2019/top-14-stade-francais-lombard-va-etre-nomme-directeur-general_sto7488068/story.shtml",
+                            "display_url": "rugbyrama.fr/rugby/top-14/2…",
+                            "indices": [
+                                4,
+                                27
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "und",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 560618971,
+                    "id_str": "560618971",
+                    "name": "RUGBYRAMA",
+                    "screen_name": "RugbyramaFR",
+                    "location": "France",
+                    "description": "21/09/2019, c'est parti, allez les Bleus !\n\nSuivez l'actualité du #Rugby français et international 🏉 | 📸 Insta : rugbyramafr | 🎥 Midol TV https://t.co/Z5psKgSR85",
+                    "url": "https://t.co/xdtaYOiiAT",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/xdtaYOiiAT",
+                                    "expanded_url": "http://www.rugbyrama.fr",
+                                    "display_url": "rugbyrama.fr",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/Z5psKgSR85",
+                                    "expanded_url": "http://bit.ly/2MtQYLq",
+                                    "display_url": "bit.ly/2MtQYLq",
+                                    "indices": [
+                                        138,
+                                        161
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 88482,
+                    "friends_count": 2134,
+                    "listed_count": 617,
+                    "created_at": "Sun Apr 22 21:40:55 +0000 2012",
+                    "favourites_count": 1962,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": true,
+                    "statuses_count": 39178,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": true,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1074263558924455936/j0HAUKYx_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1074263558924455936/j0HAUKYx_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/560618971/1569044678",
+                    "profile_link_color": "19CF86",
+                    "profile_sidebar_border_color": "FFFFFF",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 21,
+                "favorite_count": 80,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "und"
+            },
+            "is_quote_status": false,
+            "retweet_count": 21,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "und"
+        },
+        {
+            "created_at": "Sun Oct 06 08:45:42 +0000 2019",
+            "id": 1180766064701005824,
+            "id_str": "1180766064701005824",
+            "text": "RT @RugbyramaFR: 🚨🚨🚨\nhttps://t.co/3QxCnHYsKs",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "RugbyramaFR",
+                        "name": "RUGBYRAMA",
+                        "id": 560618971,
+                        "id_str": "560618971",
+                        "indices": [
+                            3,
+                            15
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/3QxCnHYsKs",
+                        "expanded_url": "https://www.rugbyrama.fr/rugby/top-14/2018-2019/top-14-stade-francais-lombard-va-etre-nomme-directeur-general_sto7488068/story.shtml",
+                        "display_url": "rugbyrama.fr/rugby/top-14/2…",
+                        "indices": [
+                            21,
+                            44
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "und",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1112756252831072256,
+                "id_str": "1112756252831072256",
+                "name": "Rochelais Jaune&Noir",
+                "screen_name": "RochelaisJN",
+                "location": "La Rochelle, France",
+                "description": "La Rochelle est notre ville. L'Atlantique notre océan. Deflandre notre jardin. Nous sommes Jaune & Noir. Nous sommes le @staderochelais !\n#FievreSR",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 45,
+                "friends_count": 52,
+                "listed_count": 0,
+                "created_at": "Mon Apr 01 16:38:59 +0000 2019",
+                "favourites_count": 1619,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 1960,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1145807072518463488/4Nz0rlSU_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1145807072518463488/4Nz0rlSU_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1112756252831072256/1562500242",
+                "profile_link_color": "FAB81E",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Sun Oct 06 05:29:09 +0000 2019",
+                "id": 1180716601613672453,
+                "id_str": "1180716601613672453",
+                "text": "🚨🚨🚨\nhttps://t.co/3QxCnHYsKs",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/3QxCnHYsKs",
+                            "expanded_url": "https://www.rugbyrama.fr/rugby/top-14/2018-2019/top-14-stade-francais-lombard-va-etre-nomme-directeur-general_sto7488068/story.shtml",
+                            "display_url": "rugbyrama.fr/rugby/top-14/2…",
+                            "indices": [
+                                4,
+                                27
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "und",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 560618971,
+                    "id_str": "560618971",
+                    "name": "RUGBYRAMA",
+                    "screen_name": "RugbyramaFR",
+                    "location": "France",
+                    "description": "21/09/2019, c'est parti, allez les Bleus !\n\nSuivez l'actualité du #Rugby français et international 🏉 | 📸 Insta : rugbyramafr | 🎥 Midol TV https://t.co/Z5psKgSR85",
+                    "url": "https://t.co/xdtaYOiiAT",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/xdtaYOiiAT",
+                                    "expanded_url": "http://www.rugbyrama.fr",
+                                    "display_url": "rugbyrama.fr",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/Z5psKgSR85",
+                                    "expanded_url": "http://bit.ly/2MtQYLq",
+                                    "display_url": "bit.ly/2MtQYLq",
+                                    "indices": [
+                                        138,
+                                        161
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 88482,
+                    "friends_count": 2134,
+                    "listed_count": 617,
+                    "created_at": "Sun Apr 22 21:40:55 +0000 2012",
+                    "favourites_count": 1962,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": true,
+                    "statuses_count": 39178,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": true,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1074263558924455936/j0HAUKYx_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1074263558924455936/j0HAUKYx_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/560618971/1569044678",
+                    "profile_link_color": "19CF86",
+                    "profile_sidebar_border_color": "FFFFFF",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 21,
+                "favorite_count": 80,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "und"
+            },
+            "is_quote_status": false,
+            "retweet_count": 21,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "und"
+        },
+        {
+            "created_at": "Sun Oct 06 08:45:05 +0000 2019",
+            "id": 1180765909423665152,
+            "id_str": "1180765909423665152",
+            "text": "RT @DavidReyrat: Stade Français Paris : Thomas Lombard va être nommé directeur général\nhttps://t.co/BUFVm0gPwN",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "DavidReyrat",
+                        "name": "David Reyrat",
+                        "id": 414816319,
+                        "id_str": "414816319",
+                        "indices": [
+                            3,
+                            15
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/BUFVm0gPwN",
+                        "expanded_url": "http://sport24.lefigaro.fr/rugby/top-14/actualites/stade-francais-thomas-lombard-va-etre-nomme-directeur-general-976805?utm_source=app&utm_medium=sms&utm_campaign=com.sport24.android",
+                        "display_url": "sport24.lefigaro.fr/rugby/top-14/a…",
+                        "indices": [
+                            87,
+                            110
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "fr",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 348463144,
+                "id_str": "348463144",
+                "name": "Bs' #️⃣OUI9️⃣",
+                "screen_name": "bsrodeo31",
+                "location": "Toulouse, France",
+                "description": "Con un jour, con toujours ! Rugby, ST évidement, vieux joueur ancien educ. #Oui9. Snowboard, canyon. Viande qui saigne et cenosillicaphobe. Risk nat.",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1041,
+                "friends_count": 1573,
+                "listed_count": 64,
+                "created_at": "Thu Aug 04 13:38:11 +0000 2011",
+                "favourites_count": 48529,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 100452,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1120435071725522954/jnoz-pK__normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1120435071725522954/jnoz-pK__normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/348463144/1547889393",
+                "profile_link_color": "C00C06",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Sun Oct 06 07:05:30 +0000 2019",
+                "id": 1180740849136631808,
+                "id_str": "1180740849136631808",
+                "text": "Stade Français Paris : Thomas Lombard va être nommé directeur général\nhttps://t.co/BUFVm0gPwN",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/BUFVm0gPwN",
+                            "expanded_url": "http://sport24.lefigaro.fr/rugby/top-14/actualites/stade-francais-thomas-lombard-va-etre-nomme-directeur-general-976805?utm_source=app&utm_medium=sms&utm_campaign=com.sport24.android",
+                            "display_url": "sport24.lefigaro.fr/rugby/top-14/a…",
+                            "indices": [
+                                70,
+                                93
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "fr",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 414816319,
+                    "id_str": "414816319",
+                    "name": "David Reyrat",
+                    "screen_name": "DavidReyrat",
+                    "location": "Paris",
+                    "description": "Chef de service @Le_Figaro @Sport24Team\n                                                   Si j'avance suivez moi, si je recule tuez moi, si je meurs vengez moi",
+                    "url": "https://t.co/t2rHzEKmMs",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/t2rHzEKmMs",
+                                    "expanded_url": "http://blog.lefigaro.fr/rugby/",
+                                    "display_url": "blog.lefigaro.fr/rugby/",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 5417,
+                    "friends_count": 3266,
+                    "listed_count": 126,
+                    "created_at": "Thu Nov 17 14:37:17 +0000 2011",
+                    "favourites_count": 18326,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 22590,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/842428965348343809/kK_Ile16_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/842428965348343809/kK_Ile16_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/414816319/1438037733",
+                    "profile_link_color": "0084B4",
+                    "profile_sidebar_border_color": "FFFFFF",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": true,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 4,
+                "favorite_count": 13,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "fr"
+            },
+            "is_quote_status": false,
+            "retweet_count": 4,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "fr"
+        },
+        {
+            "created_at": "Sun Oct 06 08:41:17 +0000 2019",
+            "id": 1180764956213559303,
+            "id_str": "1180764956213559303",
+            "text": "RT @FranceRugby: Le stade de Kumamoto se rempli et on est beaucoup de supporters Français ! Ça fait plaisir ! Merci à tous !!\n\nA votre avis…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "FranceRugby",
+                        "name": "France Rugby",
+                        "id": 2150576953,
+                        "id_str": "2150576953",
+                        "indices": [
+                            3,
+                            15
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "fr",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 804307618969817088,
+                "id_str": "804307618969817088",
+                "name": "cartayrade",
+                "screen_name": "cartayrade26",
+                "location": "",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 36,
+                "friends_count": 211,
+                "listed_count": 0,
+                "created_at": "Thu Dec 01 12:54:14 +0000 2016",
+                "favourites_count": 9109,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 9281,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1063760408086044672/hKuGGpK9_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1063760408086044672/hKuGGpK9_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/804307618969817088/1538813648",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Sun Oct 06 07:27:12 +0000 2019",
+                "id": 1180746310200119297,
+                "id_str": "1180746310200119297",
+                "text": "Le stade de Kumamoto se rempli et on est beaucoup de supporters Français ! Ça fait plaisir ! Merci à tous !!\n\nA vot… https://t.co/eqjoWWKzsT",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/eqjoWWKzsT",
+                            "expanded_url": "https://twitter.com/i/web/status/1180746310200119297",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "fr",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 2150576953,
+                    "id_str": "2150576953",
+                    "name": "France Rugby",
+                    "screen_name": "FranceRugby",
+                    "location": "Marcoussis, France",
+                    "description": "🏉🇫🇷 Fédération Française de Rugby | #RugbyAmateur | Équipes de France, #XVdeFrance, #FranceU20 #France7 | Insta/👻 : ffrugby | #NeFaisonsXV #RWC2019",
+                    "url": "https://t.co/Gk9vDZphZo",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/Gk9vDZphZo",
+                                    "expanded_url": "http://ffr.fr",
+                                    "display_url": "ffr.fr",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 684579,
+                    "friends_count": 635,
+                    "listed_count": 1275,
+                    "created_at": "Wed Oct 23 08:50:59 +0000 2013",
+                    "favourites_count": 10553,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": true,
+                    "statuses_count": 42620,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "131516",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1144612998574739457/S-4VR9Ug_normal.png",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1144612998574739457/S-4VR9Ug_normal.png",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2150576953/1568361060",
+                    "profile_link_color": "204385",
+                    "profile_sidebar_border_color": "FFFFFF",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 19,
+                "favorite_count": 112,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "fr"
+            },
+            "is_quote_status": false,
+            "retweet_count": 19,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "fr"
+        },
+        {
+            "created_at": "Sun Oct 06 08:39:37 +0000 2019",
+            "id": 1180764537047388161,
+            "id_str": "1180764537047388161",
+            "text": "RT @RugbyramaFR: 🚨🚨🚨\nhttps://t.co/3QxCnHYsKs",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "RugbyramaFR",
+                        "name": "RUGBYRAMA",
+                        "id": 560618971,
+                        "id_str": "560618971",
+                        "indices": [
+                            3,
+                            15
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/3QxCnHYsKs",
+                        "expanded_url": "https://www.rugbyrama.fr/rugby/top-14/2018-2019/top-14-stade-francais-lombard-va-etre-nomme-directeur-general_sto7488068/story.shtml",
+                        "display_url": "rugbyrama.fr/rugby/top-14/2…",
+                        "indices": [
+                            21,
+                            44
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "und",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 804307618969817088,
+                "id_str": "804307618969817088",
+                "name": "cartayrade",
+                "screen_name": "cartayrade26",
+                "location": "",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 36,
+                "friends_count": 211,
+                "listed_count": 0,
+                "created_at": "Thu Dec 01 12:54:14 +0000 2016",
+                "favourites_count": 9109,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 9281,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1063760408086044672/hKuGGpK9_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1063760408086044672/hKuGGpK9_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/804307618969817088/1538813648",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Sun Oct 06 05:29:09 +0000 2019",
+                "id": 1180716601613672453,
+                "id_str": "1180716601613672453",
+                "text": "🚨🚨🚨\nhttps://t.co/3QxCnHYsKs",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/3QxCnHYsKs",
+                            "expanded_url": "https://www.rugbyrama.fr/rugby/top-14/2018-2019/top-14-stade-francais-lombard-va-etre-nomme-directeur-general_sto7488068/story.shtml",
+                            "display_url": "rugbyrama.fr/rugby/top-14/2…",
+                            "indices": [
+                                4,
+                                27
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "und",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 560618971,
+                    "id_str": "560618971",
+                    "name": "RUGBYRAMA",
+                    "screen_name": "RugbyramaFR",
+                    "location": "France",
+                    "description": "21/09/2019, c'est parti, allez les Bleus !\n\nSuivez l'actualité du #Rugby français et international 🏉 | 📸 Insta : rugbyramafr | 🎥 Midol TV https://t.co/Z5psKgSR85",
+                    "url": "https://t.co/xdtaYOiiAT",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/xdtaYOiiAT",
+                                    "expanded_url": "http://www.rugbyrama.fr",
+                                    "display_url": "rugbyrama.fr",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/Z5psKgSR85",
+                                    "expanded_url": "http://bit.ly/2MtQYLq",
+                                    "display_url": "bit.ly/2MtQYLq",
+                                    "indices": [
+                                        138,
+                                        161
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 88482,
+                    "friends_count": 2134,
+                    "listed_count": 617,
+                    "created_at": "Sun Apr 22 21:40:55 +0000 2012",
+                    "favourites_count": 1962,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": true,
+                    "statuses_count": 39178,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": true,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1074263558924455936/j0HAUKYx_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1074263558924455936/j0HAUKYx_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/560618971/1569044678",
+                    "profile_link_color": "19CF86",
+                    "profile_sidebar_border_color": "FFFFFF",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 21,
+                "favorite_count": 80,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "und"
+            },
+            "is_quote_status": false,
+            "retweet_count": 21,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "und"
+        },
+        {
+            "created_at": "Sun Oct 06 08:39:29 +0000 2019",
+            "id": 1180764503019065344,
+            "id_str": "1180764503019065344",
+            "text": "RT @FranceRugby: Le stade de Kumamoto se rempli et on est beaucoup de supporters Français ! Ça fait plaisir ! Merci à tous !!\n\nA votre avis…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "FranceRugby",
+                        "name": "France Rugby",
+                        "id": 2150576953,
+                        "id_str": "2150576953",
+                        "indices": [
+                            3,
+                            15
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "fr",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 164313583,
+                "id_str": "164313583",
+                "name": "Pierre KUCHLY",
+                "screen_name": "PKuchly57",
+                "location": "St Forget (78)/Argenteuil (95)",
+                "description": "Président @cci_95 VP @CCI_Paris_idf Président dél. @CEFJ_2018 Gérant @LSI_France Trésorier @AgiresDev 🚨: mes tweets n'engagent que moi et RT veut pas dire ❤️",
+                "url": "https://t.co/L9fsVqRDo6",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/L9fsVqRDo6",
+                                "expanded_url": "http://www.era-sib.com",
+                                "display_url": "era-sib.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 2017,
+                "friends_count": 1702,
+                "listed_count": 816,
+                "created_at": "Thu Jul 08 15:28:51 +0000 2010",
+                "favourites_count": 71126,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 97438,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/911484988373250048/BnR-EqpU_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/911484988373250048/BnR-EqpU_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/164313583/1452336489",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Sun Oct 06 07:27:12 +0000 2019",
+                "id": 1180746310200119297,
+                "id_str": "1180746310200119297",
+                "text": "Le stade de Kumamoto se rempli et on est beaucoup de supporters Français ! Ça fait plaisir ! Merci à tous !!\n\nA vot… https://t.co/eqjoWWKzsT",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/eqjoWWKzsT",
+                            "expanded_url": "https://twitter.com/i/web/status/1180746310200119297",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "fr",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 2150576953,
+                    "id_str": "2150576953",
+                    "name": "France Rugby",
+                    "screen_name": "FranceRugby",
+                    "location": "Marcoussis, France",
+                    "description": "🏉🇫🇷 Fédération Française de Rugby | #RugbyAmateur | Équipes de France, #XVdeFrance, #FranceU20 #France7 | Insta/👻 : ffrugby | #NeFaisonsXV #RWC2019",
+                    "url": "https://t.co/Gk9vDZphZo",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/Gk9vDZphZo",
+                                    "expanded_url": "http://ffr.fr",
+                                    "display_url": "ffr.fr",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 684579,
+                    "friends_count": 635,
+                    "listed_count": 1275,
+                    "created_at": "Wed Oct 23 08:50:59 +0000 2013",
+                    "favourites_count": 10553,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": true,
+                    "statuses_count": 42620,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "131516",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1144612998574739457/S-4VR9Ug_normal.png",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1144612998574739457/S-4VR9Ug_normal.png",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2150576953/1568361060",
+                    "profile_link_color": "204385",
+                    "profile_sidebar_border_color": "FFFFFF",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 19,
+                "favorite_count": 112,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "fr"
+            },
+            "is_quote_status": false,
+            "retweet_count": 19,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "fr"
+        },
+        {
+            "created_at": "Sun Oct 06 08:39:05 +0000 2019",
+            "id": 1180764399964807169,
+            "id_str": "1180764399964807169",
+            "text": "Top 14: Castres assure et enfonce le Stade Français https://t.co/vj2YanBjdv https://t.co/7X191RJWVB",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/vj2YanBjdv",
+                        "expanded_url": "http://dlvr.it/RFc6kX",
+                        "display_url": "dlvr.it/RFc6kX",
+                        "indices": [
+                            52,
+                            75
+                        ]
+                    }
+                ],
+                "media": [
+                    {
+                        "id": 1180764398203199488,
+                        "id_str": "1180764398203199488",
+                        "indices": [
+                            76,
+                            99
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EGLq9tZUYAAMckx.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EGLq9tZUYAAMckx.jpg",
+                        "url": "https://t.co/7X191RJWVB",
+                        "display_url": "pic.twitter.com/7X191RJWVB",
+                        "expanded_url": "https://twitter.com/France3MidiPy/status/1180764399964807169/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 382,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1199,
+                                "h": 673,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1199,
+                                "h": 673,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 1180764398203199488,
+                        "id_str": "1180764398203199488",
+                        "indices": [
+                            76,
+                            99
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/EGLq9tZUYAAMckx.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/EGLq9tZUYAAMckx.jpg",
+                        "url": "https://t.co/7X191RJWVB",
+                        "display_url": "pic.twitter.com/7X191RJWVB",
+                        "expanded_url": "https://twitter.com/France3MidiPy/status/1180764399964807169/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 382,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1199,
+                                "h": 673,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1199,
+                                "h": 673,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "fr",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 227365996,
+                "id_str": "227365996",
+                "name": "France 3 Occitanie (Toulouse)",
+                "screen_name": "France3MidiPy",
+                "location": "Toulouse",
+                "description": "Compte officiel de France 3 Occitanie en Midi-Pyrénées #toulouse #pyrenees #midipyrenees #montauban #gers #albi #tarn #aveyron #rodez #tarbes #foix #cahors",
+                "url": "https://t.co/ZBJd6AimUa",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/ZBJd6AimUa",
+                                "expanded_url": "https://france3-regions.francetvinfo.fr/occitanie/",
+                                "display_url": "france3-regions.francetvinfo.fr/occitanie/",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 59666,
+                "friends_count": 1769,
+                "listed_count": 603,
+                "created_at": "Thu Dec 16 17:11:19 +0000 2010",
+                "favourites_count": 65,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 48893,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1019573865624866816/t31W6iga_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1019573865624866816/t31W6iga_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/227365996/1567093836",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "fr"
+        },
+        {
+            "created_at": "Sun Oct 06 08:38:40 +0000 2019",
+            "id": 1180764297271693312,
+            "id_str": "1180764297271693312",
+            "text": "RT @NockRobbie: Big News for the Pink Army published by the Midol this morning - a new reshuffle and allegedly Thomas Lombard has been name…",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "NockRobbie",
+                        "name": "Robbie Nock",
+                        "id": 1632606649,
+                        "id_str": "1632606649",
+                        "indices": [
+                            3,
+                            14
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 111677133,
+                "id_str": "111677133",
+                "name": "Illtud W. Dafydd",
+                "screen_name": "IlltudDafydd",
+                "location": "Paris, France",
+                "description": "Francophone gallois | Journalist/ Newyddiadurwr @AFP_Sport |",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 2038,
+                "friends_count": 1622,
+                "listed_count": 57,
+                "created_at": "Fri Feb 05 19:45:23 +0000 2010",
+                "favourites_count": 34025,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 21791,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1165733902285189122/Co30O42R_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1165733902285189122/Co30O42R_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/111677133/1469614282",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "454040",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Sun Oct 06 06:27:31 +0000 2019",
+                "id": 1180731292461277184,
+                "id_str": "1180731292461277184",
+                "text": "Big News for the Pink Army published by the Midol this morning - a new reshuffle and allegedly Thomas Lombard has b… https://t.co/B7gJE7E4xg",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/B7gJE7E4xg",
+                            "expanded_url": "https://twitter.com/i/web/status/1180731292461277184",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 1632606649,
+                    "id_str": "1632606649",
+                    "name": "Robbie Nock",
+                    "screen_name": "NockRobbie",
+                    "location": "Paris",
+                    "description": "Commentator, Presenter, big on French Rugby, all rugby, football and extreme sport. Fly fisherman and outdoor man. Explorer in a another life.",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 755,
+                    "friends_count": 2059,
+                    "listed_count": 12,
+                    "created_at": "Tue Jul 30 10:25:05 +0000 2013",
+                    "favourites_count": 5576,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 4317,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1032977944984125441/XyAggfLL_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1032977944984125441/XyAggfLL_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1632606649/1432853660",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 1,
+                "favorite_count": 2,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Sun Oct 06 08:35:38 +0000 2019",
+            "id": 1180763534814306309,
+            "id_str": "1180763534814306309",
+            "text": "RT @RMCsport: 🏉 Thomas Lombard directeur général du Stade Français dans les prochaines heures\nhttps://t.co/3FGnk01Ezi",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "RMCsport",
+                        "name": "RMC Sport",
+                        "id": 104105131,
+                        "id_str": "104105131",
+                        "indices": [
+                            3,
+                            12
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/3FGnk01Ezi",
+                        "expanded_url": "https://rmcsport.bfmtv.com/rugby/top-14-thomas-lombard-va-devenir-directeur-general-du-stade-francais-1781713.html#page/contribution/index",
+                        "display_url": "rmcsport.bfmtv.com/rugby/top-14-t…",
+                        "indices": [
+                            94,
+                            117
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "fr",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 125113361,
+                "id_str": "125113361",
+                "name": "mpmapy",
+                "screen_name": "mpl40",
+                "location": "pau",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 225,
+                "friends_count": 66,
+                "listed_count": 76,
+                "created_at": "Sun Mar 21 18:49:36 +0000 2010",
+                "favourites_count": 12360,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 101511,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1026466560511275009/08r-7bDP_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1026466560511275009/08r-7bDP_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/125113361/1416350451",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Sun Oct 06 06:24:03 +0000 2019",
+                "id": 1180730417311301632,
+                "id_str": "1180730417311301632",
+                "text": "🏉 Thomas Lombard directeur général du Stade Français dans les prochaines heures\nhttps://t.co/3FGnk01Ezi",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/3FGnk01Ezi",
+                            "expanded_url": "https://rmcsport.bfmtv.com/rugby/top-14-thomas-lombard-va-devenir-directeur-general-du-stade-francais-1781713.html#page/contribution/index",
+                            "display_url": "rmcsport.bfmtv.com/rugby/top-14-t…",
+                            "indices": [
+                                80,
+                                103
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "fr",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 104105131,
+                    "id_str": "104105131",
+                    "name": "RMC Sport",
+                    "screen_name": "RMCsport",
+                    "location": "Paris",
+                    "description": "Foot, rugby, F1, tennis, cyclisme, ... Toute l'actualité sportive est sur https://t.co/WITPPWq3Gg.",
+                    "url": "https://t.co/8HbjHWtHmF",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/8HbjHWtHmF",
+                                    "expanded_url": "http://www.rmcsport.fr",
+                                    "display_url": "rmcsport.fr",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/WITPPWq3Gg",
+                                    "expanded_url": "http://rmcsport.fr",
+                                    "display_url": "rmcsport.fr",
+                                    "indices": [
+                                        74,
+                                        97
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 556390,
+                    "friends_count": 1472,
+                    "listed_count": 2425,
+                    "created_at": "Tue Jan 12 08:08:56 +0000 2010",
+                    "favourites_count": 1133,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": true,
+                    "statuses_count": 260190,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1013705795035385856/OwVW1i8R_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1013705795035385856/OwVW1i8R_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/104105131/1561991774",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 11,
+                "favorite_count": 27,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "fr"
+            },
+            "is_quote_status": false,
+            "retweet_count": 11,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "fr"
+        }
+    ],
+    "search_metadata": {
+        "completed_in": 0.075,
+        "max_id": 1180769918700150784,
+        "max_id_str": "1180769918700150784",
+        "next_results": "?max_id=1180763534814306308&q=stade%20fran%C3%A7ais&include_entities=1",
+        "query": "stade+fran%C3%A7ais",
+        "refresh_url": "?since_id=1180769918700150784&q=stade%20fran%C3%A7ais&include_entities=1",
+        "count": 15,
+        "since_id": 0,
+        "since_id_str": "0"
+    }
+}

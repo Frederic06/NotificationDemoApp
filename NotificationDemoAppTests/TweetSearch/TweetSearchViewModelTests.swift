@@ -301,7 +301,6 @@ fileprivate final class MockTweetSearchViewModelDelagte: TweetSearcViewModelDele
     
     func displayAlert(type: AlertType) {
         self.alertType = type
-        print(type)
     }
     
     func didPresstweet(tweet: TweetItem) {

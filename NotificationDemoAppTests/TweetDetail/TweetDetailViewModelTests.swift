@@ -125,7 +125,6 @@ fileprivate final class MockTweetDetailDelegate: TweetDetailViewModelDelegate {
     
     func displayAlarm(type: AlertType) {
         self.alertType = type
-        print(type)
     }
     
     func didPresstweet(tweet: TweetItem) {

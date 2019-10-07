@@ -27,6 +27,4 @@ final class MockTweetDetailRepository: TweetDetailRepositoryType {
             completion(false)
         }
     }
-    
-    
 }

@@ -110,7 +110,6 @@ final class TweetSearchRepositoryTests: XCTestCase {
     let netWork = MockNetwork()
     
     let repository = TweetSearchRepository(network: netWork)
-    let repositoryDetail = TweetDetailRepository()
         
         guard let path = Bundle.main.path(forResource: "FakeTweets", ofType: "json") else { return }
         
@@ -127,7 +126,6 @@ final class TweetSearchRepositoryTests: XCTestCase {
                 expectation1.fulfill()
                 
                 XCTAssertEqual(tweets[0].id, "1180769918700150784")
-                print(tweets[0].id)
                 expectation2.fulfill()
             case .error:
                 print("error")
@@ -159,7 +157,6 @@ final class TweetSearchRepositoryTests: XCTestCase {
                            expectation1.fulfill()
                            
                            XCTAssertEqual(tweets[0].id, "1180769918700150784")
-                           print(tweets[0].id)
                            expectation2.fulfill()
                        case .error:
                            print("error")
