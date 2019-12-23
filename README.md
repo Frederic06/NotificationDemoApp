@@ -19,4 +19,4 @@
   <li>MVVM-C pattern</li>
 </ul>
 
-<p align="center">![Alt Text](https://i.ibb.co/QkcBtN4/Qao2o-OGr-XE.gif)</p>
+![Alt Text](https://i.ibb.co/QkcBtN4/Qao2o-OGr-XE.gif)
